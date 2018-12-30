@@ -1,0 +1,1 @@
+arr = [obj = {name: 'Shifa', email: 'shifa@gmail.com'} , alert('Hello') , 'Hello World'];
